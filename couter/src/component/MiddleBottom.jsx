@@ -28,7 +28,6 @@ function MiddleBottom() {
                     <p><IoStar /></p>
                 </div>
                 </div>
-                {/* <p>Web Developer</p> */}
             </div>
             <div className='flex flex-col items-center gap-2 pb-6'>
                 <img src='https://wp.dreamitsolution.net/totes/wp-content/uploads/2024/12/team2.png' alt='pic' className='w-screen px-5 pt-10 md:h-[350px] md:w-[350px]'/>
@@ -43,7 +42,6 @@ function MiddleBottom() {
                     <p><IoStar /></p>
                 </div>
                 </div>
-                {/* <p></p> */}
             </div>
         </div>
     </div>

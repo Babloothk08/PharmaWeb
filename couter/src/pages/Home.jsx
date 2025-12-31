@@ -15,7 +15,6 @@ function Home() {
        
        <VideoContent/>
        <Innovations/>
-      {/* <AboutSection/> */}
       <MiddleBottom/>
      <Section/>
     </div>

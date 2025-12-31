@@ -6,7 +6,6 @@ function Section() {
     <div className="w-full py-12 bg-[#fce4d1]">
       <div className="max-w-7xl mx-auto px-4 flex flex-col lg:flex-row items-center justify-between gap-10">
         
-        {/* Image Section */}
         <div className="w-full lg:w-1/2 flex justify-center">
           <img
             src="https://static.wixstatic.com/media/8ca323f8e51645d5a8b6a0e1dc505d4c.jpg/v1/fill/w_920,h_614,al_c,q_85,enc_avif,quality_auto/Girl%20in%20Pharmacy.jpg"
@@ -15,7 +14,6 @@ function Section() {
           />
         </div>
 
-        {/* Newsletter Content */}
         <div className="w-full lg:w-1/2 flex flex-col items-center lg:items-start text-center lg:text-left gap-6">
           <div className="text-5xl text-black">
             <IoIosMail />
@@ -25,7 +23,6 @@ function Section() {
             Join our list and get <span className="font-semibold">25% off</span> your first purchase!
           </p>
 
-          {/* Email Input + Button */}
           <form className="w-full max-w-md flex flex-col sm:flex-row items-center gap-4">
             <input
               type="email"

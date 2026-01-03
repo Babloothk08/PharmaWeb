@@ -3,7 +3,7 @@ import React from "react";
 function VideoContent() {
   return (
     <>
-      <div className="pt-10 w-full">
+      <div className=" w-full">
         <video autoPlay muted className="w-full h-[65vh] object-cover  ">
           <source
             src="https://www.alnylam.com/sites/default/files/videos/moasnippet.mp4"
